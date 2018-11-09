@@ -1,5 +1,5 @@
 # Ontologies
-README file (ontologyMapHWScript python program)
+README file
 
 This program is designed to provide metadata about two Center for Medicare and Medicaid Services (CMS) GEM files from their website (https://www.cms.gov/Medicare/Coding/ICD10/2018-ICD-10-CM-and-GEMs.html.)
 Download these files from there, or from my Github repo (https://github.com/andreholder)
